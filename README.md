@@ -29,7 +29,6 @@
 ```
 
 
-<p align="center">
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
