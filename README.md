@@ -31,8 +31,8 @@
 <a href="mailto:aq990714@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href='https://scholar.google.com/citations?user=vBx2W4wAAAAJ&hl=en&oi=ao' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+<a href='https://www.crybabyaq.love/' target="_blank">
+    <img alt='Myblog' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=Vue&logoColor=white&&color=0181FF'>
 </a>
 
 <br/> 
