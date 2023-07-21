@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href='https://www.crybabyaq.love/' target="_blank">
-    <img alt='Myblog' src='https://img.shields.io/badge/?style=flat&logo=Vue&logoColor=white&&color=0181FF'>
+    <img src=https://img.shields.io/static/v1?label=My-Blog&message=VuePress.Vuejs&color=green&labelColor=grey&style=flat&logo=vue.js alt=由VuePress.Vuejs强力驱动 />
 </a>
 
 <br/> 
