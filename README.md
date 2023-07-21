@@ -1,5 +1,7 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=100&center=true&vCenter=true&multiline=true&width=435&lines=Hao+Dou;Master+Student+%7C+Cancer+Research;bioinformatics+enthusiast+%EF%BD%9C+Front-End+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://github.com/Starlitnightly">
+    <img src="https://readme-typing-svg.demolab.com?font=fira code&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hao+Dou;Master+Student+%7C+Cancer+Research;bioinformatics+enthusiast+%7C+Front-End+Enthusiast" alt="Typing SVG" />
+</a>
 
 ```			                             
           ,--.    ,--.                                   .-.   .-.
