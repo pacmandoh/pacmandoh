@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/pacmandoh">
-    <img src="https://readme-typing-svg.demolab.com?font=fira+code&size=18&duration=2000&pause=150&color=1E91F7FF&multiline=true&width=550&height=80&lines=Hao+Dou;Master+Student+%7C+Cancer+Research;Bioinformatics+Enthusiast+%7C+Front-End+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=fira+code&size=18&duration=2000&pause=150&color=1E91F7FF&multiline=true&width=500&height=80&lines=Hao+Dou;Master+Student+%7C+Cancer+Research;Bioinformatics+%7C+Front-End+Enthusiast" alt="Typing SVG" />
 </a>
 <br/>
 
