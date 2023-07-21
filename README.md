@@ -30,6 +30,25 @@
 
 
 <p align="center">
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pacmandoh&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pacmandoh&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pacmandoh&theme=dracula)
+    
+![](https://github-profile-trophy.crybabyaq.love/?username=pacmandoh&row=1&margin-w=15&theme=gruvbox&no-frame=true&no-bg=true)
+
+![](https://github-readme-activity-graph.crybabyaq.love/graph?username=pacmandoh&theme=xcode&hide_border=true)
+<br/>
+
+<!---
+pacmandoh/pacmandoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<p align="center">
 <br/>
 <a href="mailto:aq990714@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
@@ -39,21 +58,3 @@
 </a>
 
 <br/> 
-
-
-<summary>📈 Stats</summary>
-<br>
-<p align="center">
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pacmandoh&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pacmandoh&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pacmandoh&theme=dracula)
-
-<br>
-
-<!---
-pacmandoh/pacmandoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
