@@ -41,8 +41,6 @@
 
 <img src="https://skillicons.dev/icons?i=ps,ai,r,c,cpp,cs,ts,js,python,latex,html,css,vscode,idea,git" />
 
-<img src="https://downloads.crybabyaq.love/image/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://downloads.crybabyaq.love/image/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://downloads.crybabyaq.love/image/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://downloads.crybabyaq.love/image/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://downloads.crybabyaq.love/image/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://downloads.crybabyaq.love/image/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://downloads.crybabyaq.love/image/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://downloads.crybabyaq.love/image/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://downloads.crybabyaq.love/image/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://downloads.crybabyaq.love/image/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://downloads.crybabyaq.love/image/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://downloads.crybabyaq.love/image/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://downloads.crybabyaq.love/image/webpack-icon.svg" alt="icon" width="65" height="65" />
-
 </div>
 
 ---
