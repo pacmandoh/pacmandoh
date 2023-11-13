@@ -8,26 +8,15 @@
 <a href="https://github.com/pacmandoh">
     <img src="https://github-stats-alpha.vercel.app/api?username=pacmandoh&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 
+<div align="center">
+    <img src="./PacmanDoh.png" alt="pacmandoh logo" />
+</div>
 
-```md		                             
-          ,--.    ,--.                                   .-.   .-.
-         |oo  | _  \o `.                                | OO| | OO|
-█████o  o|~~  |(_) /   ; ██████████████████████████████ |   | |   | █████████████████████████
-         |/\/\|   '._,'                                 '^^^' '^^^'                                                     
+---
 
-    ███████╗                                                  ██████╗           ██╗
-    ██╔═══██╗                                                 ██╔══██╗          ██║
-    ██║   ██║ ██████╗   ██████╗  ██╗ ██╗    ██████╗   ██████╗ ██║   ██╗ ██████╗ ███████╗
-    ██║████╔╝██╗═══██╗ ██╔════╝██╗═██╗═██╗ ██╗═══██╗ ██╗═══██╗██║   ██║██╔═══██╗██╔═══██╗
-    ██║╚═══╝██╔╝   ██║ ██║     ██║ ██║ ██║██╔╝   ██║ ██║   ██║██║   ██║██║   ██║██║   ██║
-    ██║     ╚██╗   ██║ ██║     ██║ ██║ ██║╚██╗   ██║ ██║   ██║██║  ██╔╝██║   ██║██║   ██║
-    ██║      ╚█████╗██╗╚██████╗██║ ██║ ██║ ╚█████╗██╗██║   ██║██████╔╝ ╚██████╔╝██║   ██║
-    ╚═╝       ╚════╝╚═╝ ╚═════╝╚═╝ ╚═╝ ╚═╝  ╚════╝╚═╝╚═╝   ╚═╝╚═════╝   ╚═════╝ ╚═╝   ╚═╝
-
- 
-█████████████████████████████████████████████████████████████████████████████████████████████
-```
-![](https://downloads.crybabyaq.love/image/icon.png) 
+<div align="center">
+    <img src="https://downloads.crybabyaq.love/Image/icon.png" alt="pacmandoh logo" />
+</div>
 
 ---
 
@@ -44,19 +33,10 @@
 </div>
 
 ---
+<div align="center">
+    <img src="https://github-profile-trophy.crybabyaq.love/?username=pacmandoh&row=1&margin-w=15&theme=gruvbox&no-frame=true&no-bg=true" alt="profile-trophy"/>
+</div>
 
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pacmandoh&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pacmandoh&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pacmandoh&theme=dracula)
-    
-![](https://github-profile-trophy.crybabyaq.love/?username=pacmandoh&row=1&margin-w=15&theme=gruvbox&no-frame=true&no-bg=true)
-
-![](https://github-readme-activity-graph.crybabyaq.love/graph?username=pacmandoh&theme=xcode&hide_border=true)
 <br/>
 
 <!---
@@ -69,7 +49,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href='https://www.crybabyaq.love/' target="_blank">
-    <img src=https://img.shields.io/static/v1?label=My-Blog&message=VuePress.Vuejs&color=green&labelColor=grey&style=flat&logo=vue.js alt=由VuePress.Vuejs强力驱动 />
+    <img src=https://img.shields.io/static/v1?label=&message=PacDocs&color=lightblue&labelColor=grey&style=flat&logo=nuxt.js alt=由Nuxt强力驱动 />
 </a>
 
 <br/> 
