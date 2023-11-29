@@ -34,7 +34,7 @@
 
 ---
 <div align="center">
-    <img src="https://github-profile-trophy.crybabyaq.love/?username=pacmandoh&row=1&margin-w=15&theme=gruvbox&no-frame=true&no-bg=true" alt="profile-trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=pacmandoh&row=1&margin-w=15&theme=gruvbox&no-frame=true&no-bg=true" alt="profile-trophy"/>
 </div>
 
 <br/>
