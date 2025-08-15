@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D7ED3,100:60A5FA&height=250&section=header&text=Pacman-Dou&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D7ED3,100:60A5FA&height=250&section=header&text=PacmanDoh&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white" />
 
-# 👋 Hello，here is Pacman Dou
+# 👋 Hello，here is PacmanDoh
 
   <p align="center">
     <p align="center">
