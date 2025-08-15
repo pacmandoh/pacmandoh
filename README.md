@@ -22,10 +22,10 @@
 <tr>
 <td width="34%" valign="top">
 
-<p align="center" style="font-size: 1.8em; font-weight: bold; margin: 1em 0;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; margin-right: 8px;"/>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Skills & Tools
-</p>
+</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,vue,nuxt,mysql,r,mongodb,linux,idea,html,css,js,ts,git,vscode,latex,docker&perline=9" />
@@ -35,11 +35,11 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 
-<p align="center" style="font-size: 1.8em; font-weight: bold; margin: 1em 0;">
+<h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Community Contributions
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-</p>
+</h2>
   
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pacmandoh&theme=radical" width="30%" />
@@ -52,17 +52,17 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 
-<p align="center" style="font-size: 1.8em; font-weight: bold; margin: 1em 0;">
+<h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
   GitHub Activity
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-</p>
+</h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pacmandoh/pacmandoh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pacmandoh/pacmandoh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pacmandoh/pacmandoh/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pacmandoh/pacmandoh/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pacmandoh/pacmandoh/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pacmandoh/pacmandoh/output/github-snake.svg" width="100%">
   </picture>
 </div>
 
