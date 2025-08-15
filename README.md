@@ -1,55 +1,69 @@
-<p align="center">
-<a href="https://github.com/pacmandoh">
-    <img src="https://readme-typing-svg.demolab.com?font=fira+code&size=18&duration=2000&pause=150&color=1E91F7FF&multiline=true&width=500&height=80&lines=Hao+Dou;Master+Student+%7C+Cancer+Research;Bioinformatics+%7C+Front-End+Enthusiast" alt="Typing SVG" />
-</a>
-<br/>
-
-
-<a href="https://github.com/pacmandoh">
-    <img src="https://github-stats-alpha.vercel.app/api?username=pacmandoh&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-
 <div align="center">
-    <img src="./PacmanDoh.png" alt="pacmandoh logo" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D7ED3,100:60A5FA&height=250&section=header&text=Pacman-Dou&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white" />
+
+# 👋 Hello，here is Pacman Dou
+
+  <p align="center">
+    <p align="center">
+      <a href="https://github.com/pacmandoh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      <a href="mailto:pacmandoh@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    </p>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=pacmandoh&style=for-the-badge&color=blueviolet" alt="访问计数器" />
+    <img src="https://img.shields.io/github/followers/pacmandoh?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
+    <img src="https://img.shields.io/github/stars/pacmandoh?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
+  </p>
 </div>
 
----
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="34%" valign="top">
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  Skills & Tools
+</h2>
 
 <div align="center">
-    <img src="https://downloads.crybabyaq.love/Image/icon.png" alt="pacmandoh logo" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,vue,nuxt,mysql,r,mongodb,linux,idea,html,css,js,ts,git,vscode,latex,docker&perline=9" />
 </div>
-
----
 
 <div align="center">
-    
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat) ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat) ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat)
-
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat) ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat) ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat) ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat) ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat) ![Perl Badge](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=fff&style=flat)
-
-![Rstudio Badge](https://img.shields.io/badge/Rstudio-75AADB?logo=rstudio&logoColor=fff&style=flat) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) ![macOS Badge](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=fff&style=flat) ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat) ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat) ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat) ![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat) ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
-<img src="https://skillicons.dev/icons?i=ps,ai,r,c,cpp,cs,ts,js,python,latex,html,css,vscode,idea,git" />
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 
----
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  Community Contributions
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+</h2>
+  
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pacmandoh&row=1&margin-w=15&theme=gruvbox&no-frame=true&no-bg=true" alt="profile-trophy"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pacmandoh&theme=radical" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pacmandoh&theme=radical" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pacmandoh&theme=radical" width="30%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pacmandoh&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+</div>
 
-<!---
-pacmandoh/pacmandoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="center">
-<br/>
-<a href="mailto:aq990714@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href='https://www.crybabyaq.love/' target="_blank">
-    <img src=https://img.shields.io/static/v1?label=&message=PacDocs&color=lightblue&labelColor=grey&style=flat&logo=nuxt.js alt=由Nuxt强力驱动 />
-</a>
+<h2 align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  GitHub Activity
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
+</h2>
 
-<br/> 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D7ED3,100:60A5FA&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
